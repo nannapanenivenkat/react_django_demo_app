@@ -1,0 +1,4 @@
+first create a git repo,
+clone the developer files into local repo
+modity the changes 
+commit and push the file to main repo
