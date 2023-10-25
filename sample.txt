@@ -1,4 +1,14 @@
-first create a git repo,
-clone the developer files into local repo
-modity the changes 
-commit and push the file to main repo
+create ec2 server with t2micro
+allow port 80, 22, 8080, 8001
+
+install java jdk 
+install jenkins in that server
+install docker
+install httpd 
+install git 
+
+create a freestyle project
+create git repo
+update repo link in source code managment 
+
+write build steps 
